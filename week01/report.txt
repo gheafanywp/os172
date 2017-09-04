@@ -1,0 +1,1 @@
+I learned about How to push and pull directory, how to make a new file, how to edit and write something with editor such as vi and nano on PuTTY 
