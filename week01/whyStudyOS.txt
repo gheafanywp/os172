@@ -3,7 +3,7 @@
 
 Why do I need to study Operating System?
 Because CPU runs an Operating System to do tasks or to implement instructions.
-Nowadays, the whole world depends on internet. 
+Nowadays, the whole world depends on the internet. 
 Every instruction is implemented by a Server which runs some sort of OS.
 To make this world better or to influence the world of Internet,
-we should definitely know about an Operating System
+we should definitely know about an Operating System ;)
