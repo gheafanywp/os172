@@ -1,0 +1,7 @@
+w02-170911-13-LR-About: Trojan Horse, Threats, Virus, Malware 
+w02-170912-16-LR-About: Protection and Security From: Lecturer
+w02-170914-15.30-LR-About: PID, PPID From: https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/
+w02-170914-16-LR-About: Demonstartion in the class with Mr. Anwar
+w02-170914-17-LR-About: Global Variable and Local Variable From: Lecturer
+w02-170912-14.30-PS-About: Do task lab week02
+w02-170913-17-PS-About: Do task lab week02
