@@ -1,0 +1,6 @@
+w03-170919-10-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-pr03-170228-16-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-process
+w03-170919-16-LR-About: LINUX Start Up System From: Lecturer
+w03-170920-19-LR-About: LINUX Start Up System From: Slide
+w03-170920-16.30-PS-About: Do task lab week03
+w03-170921-16-LR-About: Kernel, Init From: Lecturer
+
