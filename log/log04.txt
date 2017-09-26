@@ -1,0 +1,5 @@
+w04-170926-16-LR-About: Global Variable and Local Variable From: Lecturer
+w04-170926-17-PS-About: Do task lab week04
+w04-170928-16-LR-About: Demonstartion in the class with Mr. Anwar
+w04-170929-17.30-LR-About: O_CREAT, O_RDONLY, OWRONLY From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_html/ch01.html
+w04-170930-19.30-LR-About: I/O, S_IRUSR, S_IXUSR, S_IWGRP, S_IROTH From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_
