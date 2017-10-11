@@ -1,0 +1,7 @@
+w05-171010-16-LR-About: Swapping From: Mr. Anwar
+w05-171010-16.30-PS-About: FIFO, LRU, Optimalization From: Mr.Rahmat
+w05-171010-17.15-PS-About: PTE, PT1, PT2, offset From: Mr. Rahmat
+w05-171011-9-PS-About: Do task Lab week05
+w05-171011-10-DS-About: configuration memory and display with Amira
+w05-171012-16-PS-About: semua materi yang akan keluar di UTS
+w05-171014-13-PS-About: Do task Lab week05
