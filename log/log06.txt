@@ -1,0 +1,11 @@
+w06-171026-16-LR-About: Process From: Slide OSCE2e chapter 3
+w06-171026-17-LR-About: Process From: Mr. Anwar as Lecturer
+w06-171030-13.30-PS-About: Do task lab week06
+w06-171031-16-LR-About: Threads From: Mr. Anwar as Lecturer
+w06-171001-19.30-LR-About: Fork From: http://faculty.cs.niu.edu/~hutchins/csci480/linuxcalls.htm
+w06-171001-20-LR-About: PID, PPID From: https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/
+w06-171002-15-LR-About: procStatus From: https://documentation.progress.com/output/ua/OpenEdge_latest/index.html#page/dvref/proc-status-function.html
+w06-171102-16.20-LR-About: Latihan soal Fork From: Mr. Anwar as lecturer
+w06-171104-4-PS-About: Do tas lab week06
+w06-171104-6-PS-About: Do tas lab week06
+
