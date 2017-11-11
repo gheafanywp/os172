@@ -1,0 +1,11 @@
+w07-171107-15-LR-About: Critical Section Problem (Mutual Exclusion). From: http://www2.cs.uregina.ca/~hamilton/courses/330/notes/synchro/node2.html
+w07-171107-16-LR-About: Peterson's Solutuion and Semaphore From: OSC2E-ch05, OLD04
+w07-171107-16.30-LR-About: Overview Synchronization,  Critical Section (Mutual Exclusion, Progress) From: Mr. Anwar as lecturer
+w07-171107-17-LR-About: Peterson's Solution, Semaphore From: Mr. Anwar as lecturer
+w07-171108-16.30-LR-About: Deadlock, Deadlock Characteristic From: http://www.studytonight.com/operating-system/deadlocks
+w07-171108-17-LR-About: Starvation From: https://www.quora.com/What-does-%E2%80%98starvation%E2%80%99-mean-in-operating-systems and https://www.tutorialspoint.com/operating_system/os_deadlock_and_starvation_in_semaphore.asp
+w07-171109-16-LR-About: Deadlock and Starvation From: Mr. Anwar as lecturer
+w07-171109-16.30-PS-About: Latihan demo sambil memahami proses berjalannya program From: Mr. Anwar as lecturer
+w07-171109-17-LR-About: Latihan soal Synchronization From: Mr. Anwar as lecturer
+w07-171109-18.30-PS-About: Do task lab week07
+w07-171111-11-PS-About: Do task lab week07
