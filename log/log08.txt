@@ -1,0 +1,13 @@
+w08-171113-16-LR-About: IO burst, CPU burst From: Lecturer, Mr. Anwar 
+w08-171113-16.30-LR-About: Burst algorithm (FCFS, SJF, RR) From: Lecturer, Mr. Anwar
+w08-171113-17-LR-About: MultiCore, MultiProcessor  From: Lecturer, Mr. Anwar
+w08-171113-19-LR-About: Burst algorithm From: https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html 
+w08-171115-11-LR-About: Utilization, throughput From : Google 
+w08-171115-17-LR-About: Thread, MultiThread From : Slide
+w08-171115-19-LR-About: Sockets From: https://users.cs.duke.edu/~chase/cps196/slides/sockets.pdf
+w08-171116-16-PS-About: (2010­1) Status Proses From: Latihan soal  2015 bersama Mr. Anwar
+w08-171116-16.30-PS-About: (2011­1) Status Proses From: Latihan Soaal 2013 bersama Mr. Anwar
+w08-171116-17.00-PS-About: (2012­1) Status Proses From: Latihan soal h2012 bersama Mr. Anwar
+w08-171116-19-PS-About: Do task lab week08
+w08-171117-16.30-PS-About: Do task lab week08
+w08-171118-6-PS-About: Do task lab week08
