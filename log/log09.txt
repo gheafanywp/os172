@@ -1,6 +1,6 @@
-w09-1711-16-LR-About: File System, From: Lecturer
-w09-171102-16.30-LR-About: File System, From: Lecturer
-w09-171102-21-LR-About: File System, From: Lecturer
-w09-171104-23-LR-About: Disk Schedulling, From: Lecturer
-w09-171104-28.30-LR-About: Disk Schedulling, From: Lecturer
-w09-171104-30-LR-About: Disk Schedulling, From: Lecturer
+w09-171121-16-LR-About: File System, From: Lecturer
+w09-171121-16.30-LR-About: File System, From: Lecturer
+w09-171121-17-LR-About: File System, From: Lecturer
+w09-171123-16-LR-About: Disk Schedulling, From: Lecturer
+w09-171123-16.30-LR-About: Disk Schedulling, From: Lecturer
+w09-171123-17-LR-About: Disk Schedulling, From: Lecturer
